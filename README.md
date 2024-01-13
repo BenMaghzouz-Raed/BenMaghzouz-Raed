@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenMaghzouz-Raed
-- 📚 I’m a 3rd year Software Engineering student
+- 📚 I’m a Junior Software Engineer
 - 💼 I’m looking to work on web and software projects
 
 <!---
