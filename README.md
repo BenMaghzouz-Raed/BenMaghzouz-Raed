@@ -1,5 +1,21 @@
 # Hi there 👋, I'm Raed BEN MAGHZOUZ
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://raedbenmaghzouz.com/">
+    <img src="https://img.shields.io/badge/Portfolio-raedbenmaghzouz.com-blue?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/raed-ben-maghzouz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:raed.maghzouz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
 ## 💻 Full Stack Developer | Software Engineer
 
 I'm a passionate software engineer with expertise in full-stack development, specializing in building scalable web applications and integrating AI solutions.
@@ -54,9 +70,50 @@ I'm a passionate software engineer with expertise in full-stack development, spe
 </div>
 
 ### 🔭 What I'm Currently Working On
-- Building scalable full-stack applications
-- Exploring AI integrations for enhanced user experiences
-- Contributing to open-source projects
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">AI Integration Projects</h3>
+        <p align="center">
+          <a href="https://github.com/BenMaghzouz-Raed/ai-project" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View_Project-blue?style=for-the-badge&logo=github" alt="Project Badge"/>
+          </a>
+        </p>
+        <p>Building intelligent applications that leverage LLMs for enhanced user experiences and business insights.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Full-Stack Applications</h3>
+        <p align="center">
+          <a href="https://github.com/BenMaghzouz-Raed/fullstack-app" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View_Project-blue?style=for-the-badge&logo=github" alt="Project Badge"/>
+          </a>
+        </p>
+        <p>Developing scalable and responsive applications with modern tech stacks (Next.js, Shadcn, Redux).</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Open Source Contributions</h3>
+        <p align="center">
+          <a href="https://github.com/BenMaghzouz-Raed/open-source" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View_Project-blue?style=for-the-badge&logo=github" alt="Project Badge"/>
+          </a>
+        </p>
+        <p>Contributing to community projects and building public packages to share knowledge.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">UI Component Library</h3>
+        <p align="center">
+          <a href="https://github.com/BenMaghzouz-Raed/ui-components" target="_blank">
+            <img src="https://img.shields.io/badge/Code-View_Project-blue?style=for-the-badge&logo=github" alt="Project Badge"/>
+          </a>
+        </p>
+        <p>Creating reusable, accessible UI components with React, TypeScript, and Tailwind CSS.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🌱 I'm Currently Learning
 - Advanced AI integration patterns
@@ -79,8 +136,40 @@ I'm a passionate software engineer with expertise in full-stack development, spe
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenMaghzouz-Raed&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BenMaghzouz-Raed&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+- 🥇 Full Stack Development Certification
+- 🥈 AI & Machine Learning Specialization
+- 🥉 Cloud Architecture Solutions
+
+---
+
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/BenMaghzouz-Raed?style=social)](https://github.com/BenMaghzouz-Raed)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BenMaghzouz-Raed&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+  ### "Code is like humor. When you have to explain it, it's bad." 
+  ### – Cory House
   
 </div>
