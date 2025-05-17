@@ -84,13 +84,6 @@ I'm a passionate software engineer with expertise in full-stack development, spe
 
 ---
 
-## 🏆 Achievements & Certifications
-- 🥇 Full Stack Development Certification
-- 🥈 AI & Machine Learning Specialization
-- 🥉 Cloud Architecture Solutions
-
----
-
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/BenMaghzouz-Raed?style=social)](https://github.com/BenMaghzouz-Raed)
