@@ -69,58 +69,6 @@ I'm a passionate software engineer with expertise in full-stack development, spe
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 </div>
 
-### 🔭 What I'm Currently Working On
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">AI Integration Projects</h3>
-        <p align="center">
-          <a href="https://github.com/BenMaghzouz-Raed/ai-project" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View_Project-blue?style=for-the-badge&logo=github" alt="Project Badge"/>
-          </a>
-        </p>
-        <p>Building intelligent applications that leverage LLMs for enhanced user experiences and business insights.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Full-Stack Applications</h3>
-        <p align="center">
-          <a href="https://github.com/BenMaghzouz-Raed/fullstack-app" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View_Project-blue?style=for-the-badge&logo=github" alt="Project Badge"/>
-          </a>
-        </p>
-        <p>Developing scalable and responsive applications with modern tech stacks (Next.js, Shadcn, Redux).</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Open Source Contributions</h3>
-        <p align="center">
-          <a href="https://github.com/BenMaghzouz-Raed/open-source" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View_Project-blue?style=for-the-badge&logo=github" alt="Project Badge"/>
-          </a>
-        </p>
-        <p>Contributing to community projects and building public packages to share knowledge.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">UI Component Library</h3>
-        <p align="center">
-          <a href="https://github.com/BenMaghzouz-Raed/ui-components" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View_Project-blue?style=for-the-badge&logo=github" alt="Project Badge"/>
-          </a>
-        </p>
-        <p>Creating reusable, accessible UI components with React, TypeScript, and Tailwind CSS.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🌱 I'm Currently Learning
-- Advanced AI integration patterns
-- Microservices architecture
-- Cloud-native development techniques
-- Prompt Engineering optimization strategies
-
 ### 📫 How to Reach Me
 - 🌐 Portfolio: [raedbenmaghzouz.com](https://raedbenmaghzouz.com/)
 - 📧 Email: raed.maghzouz@gmail.com
@@ -133,18 +81,6 @@ I'm a passionate software engineer with expertise in full-stack development, spe
 - English: Full Professional
 - French: Intermediate
 - German: Basic
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenMaghzouz-Raed&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BenMaghzouz-Raed&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
 ---
 
