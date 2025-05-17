@@ -10,6 +10,7 @@ I'm a passionate software engineer with expertise in full-stack development, spe
   
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -43,12 +44,28 @@ I'm a passionate software engineer with expertise in full-stack development, spe
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   
-  <!-- Other -->
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <!-- UI/UX & Design -->
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  
+  <!-- APIs & Other -->
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 </div>
 
+### 🔭 What I'm Currently Working On
+- Building scalable full-stack applications
+- Exploring AI integrations for enhanced user experiences
+- Contributing to open-source projects
+
+### 🌱 I'm Currently Learning
+- Advanced AI integration patterns
+- Microservices architecture
+- Cloud-native development techniques
+- Prompt Engineering optimization strategies
+
 ### 📫 How to Reach Me
+- 🌐 Portfolio: [raedbenmaghzouz.com](https://raedbenmaghzouz.com/)
 - 📧 Email: raed.maghzouz@gmail.com
 - 💼 LinkedIn: [/in/raed-ben-maghzouz/](https://linkedin.com/in/raed-ben-maghzouz/)
 - 📱 Phone: +216 28 777 703
