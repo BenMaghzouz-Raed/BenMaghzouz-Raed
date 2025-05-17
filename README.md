@@ -48,16 +48,6 @@ I'm a passionate software engineer with expertise in full-stack development, spe
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 
-### 🔭 What I'm Currently Working On
-- Building scalable full-stack applications
-- Exploring AI integrations for enhanced user experiences
-- Contributing to open-source projects
-
-### 🌱 I'm Currently Learning
-- Advanced AI integration patterns
-- Microservices architecture
-- Cloud-native development techniques
-
 ### 📫 How to Reach Me
 - 📧 Email: raed.maghzouz@gmail.com
 - 💼 LinkedIn: [/in/raed-ben-maghzouz/](https://linkedin.com/in/raed-ben-maghzouz/)
