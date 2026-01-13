@@ -24,15 +24,17 @@ Freelance Full-Stack Developer building scalable web applications and AI-powered
 **DevOps:** Docker • Kubernetes • Git • Linux  
 **Database:** MongoDB • MySQL • Firebase
 
-## Experience
+## Freelance Highlights
 
-**Freelance Developer** — Upwork Top Rated *(2024 - Present)*  
-AI-powered analytics platforms • Expense tracking tools • Capital acquisition websites • 100% Job Success Score
+**Top Rated on Upwork** • **100% Job Success Score** • **12+ Completed Projects**
 
-**AI.DRAGONFLY** — Full-Stack Developer *(Jun 2024 - Present)*  
-Multi-tenant architecture • JWT authentication • Real-time streaming • 1,000+ daily active users
+✨ AI-powered analytics platforms 
+✨ Dynamic MVPs with real-time data visualization  
+✨ CRM systems and expense tracking tools  
+✨ Static websites with modern UX 
+✨ Multi-tenant SaaS applications
 
 ## Connect
 
 📍 Sousse, Tunisia • 🌍 Remote & Available  
-💼 [Upwork Profile](https://www.upwork.com/freelancers/raedb) • Open to new projects
+💼 [Upwork Profile](https://www.upwork.com/freelancers/raedbenmaghzouz) • Open to new projects
