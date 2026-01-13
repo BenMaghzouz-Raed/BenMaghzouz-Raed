@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## About
 
 Freelance Full-Stack Developer building scalable web applications and AI-powered solutions for clients worldwide.
@@ -38,9 +36,3 @@ Multi-tenant architecture • JWT authentication • Real-time streaming • 1,0
 
 📍 Sousse, Tunisia • 🌍 Remote & Available  
 💼 [Upwork Profile](https://www.upwork.com/freelancers/raedb) • Open to new projects
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BenMaghzouz-Raed&style=flat-square&color=2F81F7" alt="Profile views" />
-</div>
